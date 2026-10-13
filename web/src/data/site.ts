@@ -41,7 +41,7 @@ import {
 } from "lucide-react"
 
 /** Set to false before going live to hide every "Catatan draf" box. */
-export const SHOW_DRAFT_NOTES = true
+export const SHOW_DRAFT_NOTES = false
 
 export const WA = {
   admission1: "6281265557977",
